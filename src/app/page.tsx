@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="pr">
     <div className="header text-red-500" >
-      <p >hello</p>
+      <p >mother</p>
     </div>
 
     <div className="main">
